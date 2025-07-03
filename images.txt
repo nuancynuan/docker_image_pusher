@@ -1,4 +1,4 @@
 xhofe/alist
 jeessy/ddns-go
 gdy666/lucky
-ghcr.io/engineer-man/piston:v2.5.0
+ghcr.io/engineer-man/piston
