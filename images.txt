@@ -5,3 +5,4 @@ ghcr.io/engineer-man/piston
 ghcr.io/engineer-man/piston/api
 judge0/judge0:1.13.0
 glot/clang
+node:15.10.0-buster-slim
