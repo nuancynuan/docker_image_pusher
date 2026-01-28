@@ -1,9 +1,9 @@
 xhofe/alist
 jeessy/ddns-go
 gdy666/lucky
+ghcr.io/haotian-liu/llava:1.5-7b
 ghcr.io/engineer-man/piston
 ghcr.io/engineer-man/piston/api
 judge0/judge0:1.13.0
 glot/clang
 node:15.10.0-buster-slim
-myyang/llava:1.5-7b
