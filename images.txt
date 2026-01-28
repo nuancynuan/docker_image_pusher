@@ -6,6 +6,4 @@ ghcr.io/engineer-man/piston/api
 judge0/judge0:1.13.0
 glot/clang
 node:15.10.0-buster-slim
-buildpack-deps:buster
-arm64v8/buildpack-deps:buster
 myyang/llava:1.5-7b
