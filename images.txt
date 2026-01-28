@@ -8,3 +8,4 @@ glot/clang
 node:15.10.0-buster-slim
 buildpack-deps:buster
 arm64v8/buildpack-deps:buster
+myyang/llava:1.5-7b
