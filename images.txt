@@ -1,6 +1,9 @@
 xhofe/alist
 jeessy/ddns-go
 gdy666/lucky
+mysql:8.0
+minio/minio
+nginx:stable
 ghcr.io/haotian-liu/llava:1.5-7b
 ghcr.io/engineer-man/piston
 ghcr.io/engineer-man/piston/api
